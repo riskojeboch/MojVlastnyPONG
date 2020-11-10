@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lopticka
+comment1.params=x\ y\ width\ height
+comment1.target=Lopticka(int,\ int,\ int,\ int)
+comment2.params=randomXDir
+comment2.target=void\ setXDir(int)
+comment3.params=randomYDir
+comment3.target=void\ setYDir(int)
+comment4.params=
+comment4.target=void\ move()
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+numComments=6

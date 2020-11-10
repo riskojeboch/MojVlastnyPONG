@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Paddle
+comment1.params=x\ y\ PADDLE_WIDTH\ PADDLE_HEIGHT\ id
+comment1.target=Paddle(int,\ int,\ int,\ int,\ int)
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=e
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.params=yDir
+comment4.target=void\ setYDir(int)
+comment5.params=
+comment5.target=void\ move()
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+numComments=7
